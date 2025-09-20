@@ -319,7 +319,7 @@ onUnmounted(() => {
     <div v-if="!config.noCopyright" class="wl-power">
       Powered by
       <a
-        href="https://github.com/walinejs/waline"
+        href="https://github.com/cunzhong/waline"
         target="_blank"
         rel="noopener noreferrer"
       >
